@@ -16,11 +16,11 @@
     <section class="px-8 bg-[#26335D] text-white font-['Montserrat'] h-screen">
       <nav class="flex justify-between pt-6">
         <div class="uppercase font-bold text-xl">logo</div>
-        <ul class="flex gap-8">
+        <ul class="lg:flex gap-8 hidden">
           <li>Home</li>
           <li>Product</li>
           <li>Pricing</li>
-          <li>Conact</li>
+          <li>Contact</li>
         </ul>
         <div class="flex gap-6">
           <button>Login</button>
@@ -31,10 +31,10 @@
           </button>
         </div>
       </nav>
-      <main class="flex items-center justify-center gap-24">
-        <div class="flex flex-col gap-3 w-[25%]">
+      <main class="flex flex-col lg:flex-row items-center justify-center gap-24">
+        <div class="flex flex-col gap-3 lg:w-[25%] pt-10 lg:pt-0">
           <p class="text-[#8D5CF6]">Join us</p>
-          <h1 class="text-4xl font-bold leading-snug">
+          <h1 class="lg:text-4xl text-xl font-bold leading-snug">
             25K+ STUDENTS TRUST US
           </h1>
           <p class="font-semibold">
@@ -66,7 +66,7 @@
             Problems trying to resolve the conflict between<br />
             the two major realms of Classical physics: Newtonian mechanics
           </p>
-          <div class="w-[50%] pt-5 m-auto mb-14">
+          <div class="lg:w-[50%] w-[100%] pt-5 m-auto mb-14">
             <video controls poster="/img/video.svg">
               <source src="/img/student.mp4" type="video/mp4" />
               Your browser does not support the video tag
@@ -535,7 +535,7 @@
             </div>
           </div>
       </section>
-
+      
       <!-- Reviews -->
       <section class="w-[60%] m-auto mt-10">
         <!-- texts -->
@@ -623,11 +623,103 @@
       </section>
     </section>
 
-    <footer>
-      <!-- first half -->
-      <div></div>
+    <!-- footer -->
+    <footer class="flex flex-col gap-2 bg-[#FFFFFF] ">
+      <div class="py-5 ">
+        <!-- first half -->
+      <div class="grid grid-cols-5 py-5 ml-[5%] ">
+        <!-- Company info -->
+        <div>
+          <div>
+            <p class="text-[15px] font-semibold">Company Info</p>
+          </div>
+          <div>
+            <ul class="text-[#737373] text-[13px]">
+              <li>About Us</li>
+              <li>Carrier</li>
+              <li>We are hiring</li>
+              <li>Blog</li>
+            </ul>
+          </div>
+        </div>
+        <!-- Legal -->
+        <div>
+          <div>
+            <p class="text-[15px] font-semibold">Legal</p>
+          </div>
+          <div>
+            <ul class="text-[#737373] text-[13px]">
+              <li>About Us</li>
+              <li>Carrier</li>
+              <li>We are hiring</li>
+              <li>Blog</li>
+            </ul>
+          </div>
+        </div>
+        <!-- Features -->
+        <div>
+          <div>
+            <p class="text-[15px] font-semibold">Feautures</p>
+          </div>
+          <div>
+            <ul class="text-[#737373] text-[13px]">
+              <li>Business Marketing</li>
+              <li>User Analytic</li>
+              <li>Live Chat</li>
+              <li>Unlimited Support</li>
+            </ul>
+          </div>
+        </div>
+        <!-- Resources -->
+        <div>
+          <div>
+            <p class="text-[15px] font-semibold">Resources</p>
+          </div>
+          <div>
+            <ul class="text-[#737373] text-[13px]">
+              <li>IOS & Android</li>
+              <li>Watch a Demo</li>
+              <li>Customers</li>
+              <li>API</li>
+            </ul>
+          </div>
+        </div>
+        <!-- Get in Touch -->
+        <div>
+          <div>
+            <p class="text-[15px] font-semibold">Get In Touch</p>
+          </div>
+          <div>
+            <ul class="text-[#737373] text-[13px]">
+              <li>About Us</li>
+              <li>Carrier</li>
+              <li>We are hiring</li>
+              <li>Blog</li>
+            </ul>
+          </div>
+        </div>
+      </div>
       <!-- second half -->
-      <div></div>
+      <div class="flex justify-between bg-[#FAFAFA] py-5 pl-[5%]">
+
+        <div>
+          <p class="text-[#737373] text-[15px]">Made With Love By Figmaland All Right Reserved </p>
+        </div>
+
+        <div class="flex gap-2">
+          <img src="/img/facebook.svg"/>
+          <img src="/img/instagram.svg"/>
+          <img src="/img/twitter.svg"/>
+        </div>
+
+      </div>
+     
+      </div>
+        
+      
+
     </footer>
+    
   </body>
+  
 </html>
