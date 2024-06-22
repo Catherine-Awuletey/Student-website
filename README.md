@@ -16,4 +16,5 @@
 
 <h1>User Interface</h1>
 <img width="1280" alt="Screenshot 2024-06-22 at 7 16 23 PM" src="https://github.com/Catherine-Awuletey/Student-website/assets/87996502/87f8905a-78cb-47ed-934d-0a52505191a7">
-<img src = "/Desktop/SWB/vid" />
+<img width="1280" alt="vid" src="https://github.com/Catherine-Awuletey/Student-website/assets/87996502/1007318e-6f36-4f15-9500-2d1f20ee22c8">
+
