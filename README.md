@@ -23,6 +23,12 @@
 <img width="1280" alt="Screenshot 2024-06-22 at 7 28 50 PM" src="https://github.com/Catherine-Awuletey/Student-website/assets/87996502/db20f205-bc57-45bb-8b6b-7c9d32231054">
 <img width="1280" alt="Screenshot 2024-06-22 at 7 29 59 PM" src="https://github.com/Catherine-Awuletey/Student-website/assets/87996502/db9b12e5-22ff-4fad-8c20-a7a5800d2b4a">
 <img width="1280" alt="Screenshot 2024-06-22 at 7 31 12 PM" src="https://github.com/Catherine-Awuletey/Student-website/assets/87996502/932fb0e3-f0da-46a2-9f97-bbf406646a90">
+<img width="1280" alt="Screenshot 2024-06-22 at 7 33 46 PM" src="https://github.com/Catherine-Awuletey/Student-website/assets/87996502/97846dda-dc20-4b07-bb09-2cfc7d341cac">
+<img width="1279" alt="Screenshot 2024-06-22 at 7 34 59 PM" src="https://github.com/Catherine-Awuletey/Student-website/assets/87996502/4711714a-4d8e-4cf8-a4c4-70063de6e16e">
+<img width="1280" alt="Screenshot 2024-06-22 at 7 37 41 PM" src="https://github.com/Catherine-Awuletey/Student-website/assets/87996502/38bf3261-62b1-406b-95d1-0067a756271d">
+
+
+
 
 
 
