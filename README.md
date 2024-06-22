@@ -1,11 +1,13 @@
 <h1>Student Web Page</h1>
 <p>This is an educational web page showcasing courses availabe and course packages. It is a UI design originally from the figma community.</p>
+<p>Here's a link to host the web page on various screen sizes https://students-web.netlify.app/</p>
 
 <h1>Concepts Learned</h1>
 <ul>
   <li>More on Flex box</li>
   <li>How to use CSS Grid</li>
   <li>More on Semantic HTML</li>
+  <li>Media queries</li>
 </ul>
 
 <h1>Stack</h1>
